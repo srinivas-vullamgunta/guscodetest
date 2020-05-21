@@ -12,4 +12,3 @@ It includes opening times. We would like you to use this code and work through t
 ## Extra information
 We use PHP 7.2, so please use this version and conform to the standards.
 
-## Please share your code with tkawka@arden.ac.uk and kbowler@arden.ac.uk as a git repository.
